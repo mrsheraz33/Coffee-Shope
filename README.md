@@ -7,13 +7,13 @@ Welcome to *Coffee Corner, a modern, responsive, and visually appealing coffee s
 ## 🖼 Preview
 
 ### ☕ Homepage
-![Homepage](images/screenshote.png)
+![Homepage](images/screenshot.png)
 
 ### 📜 Menu Section
-![Menu](images/screenshote1.png)
+![Menu](images/screenshot1.png)
 
 ### 📍 Contact Section
-![Contact](images/screenshote3.png)
+![Contact](images/screenshot3.png)
 
 
 ## 🚀 Features
